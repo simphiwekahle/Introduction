@@ -1,5 +1,10 @@
 ﻿using Introduction;
 
-BasicDisplay.Run();
+//BasicDisplay.Run();
 
-Variables.Run();
+//Variables.Run();
+
+//MathsConditions.Run();
+
+ConditionalExpressions.Run();
+
