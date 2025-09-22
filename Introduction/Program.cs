@@ -6,5 +6,18 @@
 
 //MathsConditions.Run();
 
-ConditionalExpressions.Run();
+//ConditionalExpressions.Run();
 
+//SwitchCases.Run();
+
+//MovieTicketConditions.Run();
+
+//CoffeeShop.Run();
+
+//ForLoopsIntro.Run();
+
+//TrickyForLoops.Run();
+
+//TrickyForLoops.FinalMark();
+
+WhileLoops.Run();
