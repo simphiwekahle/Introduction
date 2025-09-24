@@ -1,4 +1,4 @@
-﻿namespace Introduction;
+﻿ namespace Introduction;
 
 public class WhileLoops
 {
